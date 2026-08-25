@@ -1,0 +1,12 @@
+rerun yes
+iis yes
+Names no
+lpmethod 4 
+threads 7 
+predual -1
+barcolnz 150
+barstartalg 1
+baralg 3
+barepcomp 4.6E-08
+barcrossalg 1
+ppriind 3

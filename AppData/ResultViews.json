@@ -1,0 +1,146 @@
+[
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2025-03-31 17:07",
+    "LastAccessed": "2025-03-31 17:07",
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"DUMIMP\"]}",
+    "Name": "_check dum imp",
+    "UserName": "dherbemv"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2025-03-31 17:07",
+    "LastAccessed": "2025-03-31 17:07",
+    "Filter": "{\"attribute\":[\"EQ_Combal\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "__over produced NRG commodities",
+    "UserName": "dherbemv"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2025-03-31 17:07",
+    "LastAccessed": "2025-03-31 17:07",
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"s_Mining\"],\"commodityset\":[\"ALLBIO\",\"ALLBIOF\",\"ALLCOAL\",\"ALLELC\",\"ALLGAS\",\"ALLH2\",\"ALLHEAT\",\"ALLNUC\",\"ALLOILCrd\",\"ALLREN\"]}",
+    "Name": "Primary Energy Extraction",
+    "UserName": "dherbemv"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2025-03-31 17:07",
+    "LastAccessed": "2025-03-31 17:07",
+    "Filter": "{\"process\":[\"Trd_2w__Elc_01\",\"Trd_2w__gsl_01\",\"Trd_2w_bdl\",\"Trd_2w_dsl\",\"Trd_2w_elc\",\"Trd_2w_eth\",\"Trd_2w_gsl\",\"Trd_2w_lpg\",\"Trd_2w_nga\",\"Trd_3w__Elc_01\",\"Trd_3w__gsl_01\",\"Trd_3w_bdl\",\"Trd_3w_dsl\",\"Trd_3w_elc\",\"Trd_3w_eth\",\"Trd_3w_gsl\",\"Trd_3w_lpg\",\"Trd_3w_nga\",\"Trd_bus_bdl\",\"Trd_Bus_Cng_Urb_01\",\"Trd_bus_dsl\",\"Trd_Bus_dsl_Urb_01\",\"Trd_bus_elc\",\"Trd_bus_eth\",\"Trd_Bus_Eth_Urb_01\",\"Trd_Bus_GH2_Urb_01\",\"Trd_bus_gsl\",\"Trd_Bus_gsl_Urb_01\",\"Trd_bus_lpg\",\"Trd_bus_nga\",\"Trd_car_bdl\",\"Trd_Car_Cng_01\",\"Trd_Car_Cng_11\",\"Trd_Car_Cng_21\",\"Trd_Car_Cng_31\",\"Trd_Car_Cng_41\",\"Trd_Car_Cng_51\",\"Trd_Car_Cng_61\",\"Trd_Car_Cng_71\",\"Trd_Car_Cng_81\",\"Trd_Car_Cng_91\",\"Trd_car_dsl\",\"Trd_Car_dsl_01\",\"Trd_Car_dsl_11\",\"Trd_Car_dsl_21\",\"Trd_Car_dsl_31\",\"Trd_Car_dsl_41\",\"Trd_Car_dsl_51\",\"Trd_Car_dsl_61\",\"Trd_Car_dsl_71\",\"Trd_Car_dsl_81\",\"Trd_Car_dsl_91\",\"Trd_car_elc\",\"Trd_Car_Elc_10\",\"Trd_car_eth\",\"Trd_Car_GH2_01\",\"Trd_Car_GH2_10\",\"Trd_car_gsl\",\"Trd_Car_gsl_01\",\"Trd_Car_gsl_11\",\"Trd_Car_gsl_21\",\"Trd_Car_gsl_31\",\"Trd_Car_gsl_41\",\"Trd_Car_gsl_51\",\"Trd_Car_gsl_61\",\"Trd_Car_gsl_71\",\"Trd_Car_gsl_81\",\"Trd_Car_gsl_91\",\"Trd_Car_LH2_01\",\"Trd_car_lpg\",\"Trd_Car_Lpg_01\",\"Trd_Car_Lpg_11\",\"Trd_Car_Lpg_21\",\"Trd_Car_Lpg_31\",\"Trd_Car_Lpg_41\",\"Trd_Car_Lpg_51\",\"Trd_Car_Lpg_61\",\"Trd_Car_Lpg_71\",\"Trd_Car_Lpg_81\",\"Trd_Car_Lpg_91\",\"Trd_car_nga\",\"Trd_Car_PIH_20pct\",\"Trd_Car_PIH_80pct\",\"Trd_hdt_bdl\",\"Trd_Hdt_Cng_01\",\"Trd_hdt_dsl\",\"Trd_Hdt_dsl_01\",\"Trd_Hdt_dsl_10\",\"Trd_hdt_eth\",\"Trd_Hdt_GH2_01\",\"Trd_hdt_gsl\",\"Trd_Hdt_gsl_01\",\"Trd_lcv_bdl\",\"Trd_Lcv_Cng_01\",\"Trd_lcv_dsl\",\"Trd_Lcv_dsl_01\",\"Trd_lcv_elc\",\"Trd_Lcv_Elc_01\",\"Trd_lcv_eth\",\"Trd_Lcv_GH2_01\",\"Trd_Lcv_GH2_10\",\"Trd_lcv_gsl\",\"Trd_Lcv_gsl_01\",\"Trd_Lcv_LH2_01\",\"Trd_lcv_lpg\",\"Trd_Lcv_Lpg_01\",\"Trd_lcv_nga\"],\"attribute\":[\"VAR_Act\",\"VAR_Cap\"]}",
+    "Name": "road transport vehicles",
+    "UserName": "dherbemv"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2025-03-31 17:07",
+    "LastAccessed": "2025-03-31 17:07",
+    "Filter": "{\"attribute\":[\"EQ_CombalM\"],\"commodity\":[\"OILCRD\",\"OILDST\",\"OILGSL\",\"OILHFO\",\"OILJTK\",\"OILKER\",\"OILLPG\",\"OILNGL\",\"OILRPP\"]}",
+    "Name": "Prices - RPP",
+    "UserName": "dherbemv"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2025-03-31 17:07",
+    "LastAccessed": "2025-03-31 17:07",
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"ELEHYD\",\"ELESOL\",\"ELEWIN\",\"ELEBIO\"],\"commodityset\":[\"ALLELC\"]}",
+    "Name": "RE electricity generation",
+    "UserName": "dherbemv"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2025-03-31 17:07",
+    "LastAccessed": "2025-03-31 17:07",
+    "Filter": "{\"attribute\":[\"Reg_wobj\"]}",
+    "Name": "_sys cost",
+    "UserName": "dherbemv"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2025-03-31 17:07",
+    "LastAccessed": "2025-03-31 17:07",
+    "Filter": "{\"attribute\":[\"EQ_CombalM\"],\"commodity\":[\"BIOBSL\",\"COABCO\",\"COAHCO\",\"GASNGA\",\"OILCRD\"]}",
+    "Name": "Primary energy prices",
+    "UserName": "dherbemv"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2025-03-31 17:07",
+    "LastAccessed": "2025-03-31 17:07",
+    "Filter": "{\"attribute\":[\"EQ_CombalM\"],\"commodityset\":[\"SFUEAGR\",\"SFUECOM\",\"SFUEELC\",\"SFUEIND\",\"SFUERES\",\"SFUETRA\",\"SFUEUPS\"]}",
+    "Name": "sector fuel prices",
+    "UserName": "dherbemv"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2025-03-31 17:07",
+    "LastAccessed": "2025-03-31 17:07",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"commodityset\":[\"SFUEAGR\",\"SFUECOM\",\"SFUEELC\",\"SFUEIND\",\"SFUERES\",\"SFUETRA\",\"SFUEUPS\"]}",
+    "Name": "sector fuel consumption - calibration check",
+    "UserName": "dherbemv"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2025-03-31 17:07",
+    "LastAccessed": "2025-03-31 17:07",
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"E_Bio\",\"E_Bio-S\",\"E_Coal\",\"E_Coal-S\",\"E_Crude\",\"E_Diesel\",\"E_Gas\",\"E_Gas-S\",\"E_Geothermal\",\"E_Hydro\",\"E_Lignite\",\"E_Nuclear\",\"E_Oil\",\"E_Solar\",\"E_Waste\",\"E_Wind\"],\"commodityset\":[\"ALLELC\"]}",
+    "Name": "electricity generation",
+    "UserName": "dherbemv"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2025-03-31 17:07",
+    "LastAccessed": "2025-03-31 17:07",
+    "Filter": "{\"attribute\":[\"VAR_FIn\",\"VAR_FOut\"],\"processset\":[\"Trd_endo\"],\"commodityset\":[\"ALLBIO\",\"ALLBIOF\",\"ALLCOAL\",\"ALLELC\",\"ALLGAS\",\"ALLH2\",\"ALLOILCrd\",\"ALLOILprd\"]}",
+    "Name": "Endogenous trade - bilateral",
+    "UserName": "dherbemv"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2025-03-31 17:07",
+    "LastAccessed": "2025-03-31 17:07",
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"commodity\":[\"INDCO2Nc\",\"INDCO2Ng\",\"INDCO2No\",\"TRACO2Nc\",\"TRACO2Ng\",\"TRACO2No\"]}",
+    "Name": "transport and industry emissions",
+    "UserName": "dherbemv"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2025-03-31 17:07",
+    "LastAccessed": "2025-03-31 17:07",
+    "Filter": "{\"attribute\":[\"VAR_POut\"],\"processset\":[\"E_Bio\",\"E_Coal\",\"E_Gas-CC\",\"E_Gas-CT\",\"E_Gas-ST\",\"E_Hydro\",\"E_Lignite\",\"E_Nuclear\",\"E_Oil\",\"E_Solar\",\"E_Wind\"]}",
+    "Name": "power view",
+    "UserName": "dherbemv"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2025-03-31 17:07",
+    "LastAccessed": "2025-03-31 17:07",
+    "Filter": "{\"commodity\":[\"NetCO2_Bldg\",\"NetCO2_ELC\",\"NetCO2_IND\",\"NetCO2_SUP\",\"NetCO2_TRA\"]}",
+    "Name": "CO2 total - accounting approach",
+    "UserName": "dherbemv"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2025-03-31 17:07",
+    "LastAccessed": "2025-03-31 17:07",
+    "Filter": "{\"commodity\":[\"TOTCO2\"]}",
+    "Name": "TOTCO2 - check",
+    "UserName": "dherbemv"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "ApplicationVersion": "4.0.9.6",
+  "UserName": "akanu",
+  "Date": "2025-03-31 17:31",
+  "FormSettings": {
+    "IsNRGChecked": true,
+    "IsMATChecked": false,
+    "IsDEMChecked": true,
+    "IsUserConstraintChecked": true,
+    "ThreadCount": -1,
+    "IsFillRCompareChecked": true
+  }
+}
